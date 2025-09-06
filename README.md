@@ -38,10 +38,10 @@ venv\Scripts\activate      # On Windows
 ## Install dependencies
 pip install opencv-python mediapipe numpy
 
-# run game
+## run game
 python "pro (1).py"
 
-##🎮 How to Play
+## 🎮 How to Play
 
 Ensure your webcam is connected.
 
